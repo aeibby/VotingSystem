@@ -3,7 +3,11 @@
 ##### Voting System - curated by 21900842 Abigail Yong 
 
 Use: To hold mini elections/voting system for any clubs, organizations, ministries and communites.\
-This is done by using C programming, and it requires an id for both voters and voter committees.
+This is done by using C programming, and it requires an id for both voters and voter committees. \
+My contribution to this project is creating this voting system. \
+I did so after observing different elective committees struggle to have a efficient and quick voting system. \
+With this system, you can vote and check results easily.
+
 
 **TO RUN THIS CODE, YOU NEED TO DOWNLOAD BOTH _'Voting.h'_ and _'VotingMain.c'_ AND RUN _'VotingMain.c'_ AFTER COMPILATION ON AN EDITOR.**
 
