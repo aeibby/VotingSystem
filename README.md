@@ -2,16 +2,20 @@
 ##### This is the manual file/explanations for this voting system!
 ##### Voting System - curated by 21900842 Abigail Yong 
 
+------------------------------------------------------------------------------------------------------
+
 Use: To hold mini elections/voting system for any clubs, organizations, ministries and communites.\
 This is done by using C programming, and it requires an id for both voters and voter committees. \
 My contribution to this project is creating this voting system. \
-I did so after observing different elective committees struggle to have a efficient and quick voting system. \
+I did so after observing different elective committees in Handong struggle to have a efficient and quick voting system. \
 With this system, you can vote and check results easily.
 
 
 **TO RUN THIS CODE, YOU NEED TO DOWNLOAD BOTH _'Voting.h'_ and _'VotingMain.c'_ AND RUN _'VotingMain.c'_ AFTER COMPILATION ON AN EDITOR.**
 
 :warning:	If you will be holding this voting, username: Admin, password: 12345 :warning:	
+
+------------------------------------------------------------------------------------------------------
 
 ## Explanation
 
@@ -52,6 +56,8 @@ Determine your last 2 digits by how which nth voter you are! :)
 After that, as a student with a valid student ID, you will be able to input the choice of candidate by entering the number!
 
 After voting, results will show as inputted with the voter turnout! 🥇
+
+-----------------------------------------------------------------------------------------------------
 
 ## Questions 
 https://youtu.be/30UVoBUAej0 \
