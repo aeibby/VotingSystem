@@ -1,4 +1,4 @@
-# **A Voting System! 🗳️ **
+# **A Voting System! 🗳️**
 ##### This is the manual file/explanations for this voting system!
 ##### Voting System - curated by 21900842 Abigail Yong 
 
