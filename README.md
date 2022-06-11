@@ -50,7 +50,10 @@ After that, as a student with a valid student ID, you will be able to input the 
 After voting, results will show as inputted with the voter turnout! 🥇
 
 ## Questions 
-Please email me abby@handong.ac.kr :) I will try my best to solve your inquiries!
+https://youtu.be/30UVoBUAej0 \
+This is the explanation of the Voting System! \
+If you have any further questions, please do not hesitate to email me abby@handong.ac.kr :) \
+I will try my best to solve your inquiries! \
 Thank you for using this voting system! 🥰
 
 
