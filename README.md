@@ -40,7 +40,9 @@ Examples of a student ID: \
 2022ossLF00031 \
 2022ossLF00045 \
 2022ossLF00022 \
-2022ossLF00098 
+2022ossLF00098 \
+Determine your last 2 digits by how which nth voter you are! :)
+
 
 ** The _voterid_ is the according to whichever number of voter you are in 5 digits. The maximum voter population is up to 10000. \
 After that, as a student with a valid student ID, you will be able to input the choice of candidate by entering the number!
