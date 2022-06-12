@@ -12,8 +12,14 @@ With this system, you can vote and check results easily.
 
 
 **TO RUN THIS CODE, YOU NEED TO DOWNLOAD BOTH _'Voting.h'_ and _'VotingMain.c'_ AND RUN _'VotingMain.c'_ AFTER COMPILATION ON AN EDITOR.**
-
-:warning:	If you will be holding this voting, username: Admin, password: 12345 :warning:	
+For raspberry pi, follow the steps below:
+1. Log into a pi terminal on your Raspberry Pi
+2. $ sudo systemctl stop nginx
+3. $ sudo apt-get install apache2-y
+4. $ start service apache2 restart
+5. $ git clone https://github.com/aeibby/VotingSystem.git
+6. $ sudo mv VotingSystem /var/www/html/
+7. Download necessary files and run normally on any terminal/editor
 
 ------------------------------------------------------------------------------------------------------
 
@@ -24,6 +30,8 @@ With this system, you can vote and check results easily.
 2. Continue Previous Voting Round
 3. Show Results
 4. Exit/logout from Admin panel
+
+:warning:	If you will be holding this voting, username: Admin, password: 12345 :warning:	
 
 ☑️ _Student rights (Voters):_
 1. Entering student ID (with a format)
